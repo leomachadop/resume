@@ -12,6 +12,7 @@ Tech Lead and Senior Backend Engineer with over 15 years of experience deliverin
 * **Cloud & DevOps:** AWS (DynamoDB, SQS, API Gateway, Lambda, ECS, EKS, S3), Docker, Kubernetes, Jenkins, GitHub Actions.
 * **Architecture & Patterns:** Clean Architecture, Hexagonal Architecture, SOLID principles, TDD, Server-Driven UI.
 * **Databases:** PostgreSQL, Oracle, SQL Server, MongoDB, Cassandra, DynamoDB.
+* **Spoken Languages:** Portuguese (Native), English (Intermediate - B1).
 
 ## Experience
 
